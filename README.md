@@ -1,6 +1,12 @@
-# StatusCode2_pawhub-ML
-# 🐾 Pet Matching ML Service
+# 🐾 PawHub
 
+![PawHub logo](logo.jpg)
+
+## Overview
+
+PawHub helps communities track the drives conducted by NGOs for the welfare of animals, help animals in trouble, reunite lost pets and discover adoptables nearby. It brings together sightings, emergency reporting, adoption, and a social feed—on top of a modular, testable Flutter codebase.
+
+## StatusCode2_pawhub-ML
 This repository provides a **FastAPI-based ML service** for analyzing and identifying pets from images.  
 It combines **Google Gemini AI**, **YOLOv8**, and **OpenAI CLIP** to:  
 
