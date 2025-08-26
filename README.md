@@ -143,3 +143,9 @@ print(response.json())
 - Default models used:
   - CLIP: `ViT-B/32`
   - YOLOv8: `yolov8x.pt`
+
+
+## Related repositories for the project
+- [Backend API](https://github.com/NarenKarthikBM/pawhubAPI/)
+- [Flutter App](https://github.com/jayb71/pawhub/)
+- [Web Dashboard](https://github.com/NirmanJaiswal36/PawHub-web-dashboard)
